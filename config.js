@@ -13,12 +13,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
-['50664668406', 'My Kim Dan', true],
-['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
+['+201128837056', 'ℓɪɢнτ вστ 🐦', true], 
+['+201128837056', '𝙊𝙬𝙣𝙚𝙧  💻', true],  
+
 
 global.mods = [] 
 global.prems = []
@@ -80,8 +77,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'ℓɪɢнτ вστ 🌻🐈'
+global.author = 'ℓɪɢнτ'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
@@ -99,12 +96,8 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.2'
 global.vsJB = '3.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = 'ℓɪɢнτ вστ'
+global.ig = 'https://www.instagram.com/flikelkobtan.1'
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
@@ -120,8 +113,8 @@ global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 CO
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'ℓɪɢнτ вστ : ℓɪɢнτ'
+global.igfg = 'ℓɪɢнτ вστ'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
@@ -140,26 +133,21 @@ global.imagen11 = fs.readFileSync('./media/menus/img10.jpg')
 global.imagen12 = fs.readFileSync('./media/menus/img11.jpg')
 global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
 
-global.img = 'https://i.imgur.com/AwlL9kc.jpeg'
-global.img2 = 'https://i.imgur.com/p18q1Ok.jpeg'
-global.img3 = 'https://i.imgur.com/01Z8a0a.jpg' //ft rectangular
-global.img5 = 'https://i.imgur.com/80uz37R.jpeg'
-global.img6 = 'https://i.imgur.com/3zSvnGY.jpeg'
-global.img7 = 'https://i.imgur.com/WY4r6up.jpeg'
-global.img8 = 'https://i.imgur.com/qCO3RYa.jpeg'
-global.img9 = 'https://i.imgur.com/dWk51FS.jpeg'
-global.img10 = 'https://i.imgur.com/T4NjKMi.jpeg'
-global.img11 = 'https://i.imgur.com/jqyWSlh.jpeg'
-global.img12 = 'https://i.imgur.com/mpCRttm.jpeg'
-global.img13 = 'https://i.imgur.com/O04epJI.jpeg'
-global.img14 = 'https://i.imgur.com/jfbuJRU.jpeg'
-global.img15 = 'https://i.imgur.com/DzqUXkW.jpeg'
-global.img17 = 'https://i.imgur.com/Y3ZWq7z.jpeg'
-global.img18 = 'https://i.imgur.com/kaUN1Nz.jpeg'
-global.img19 = 'https://i.imgur.com/7yJ22hJ.jpeg'
-global.img20 = 'https://i.imgur.com/qcD353P.jpeg'
-global.img21 = 'https://i.imgur.com/3fJTaX6.jpeg'
-global.img21 = 'https://i.imgur.com/akofqcE.jpeg' //paypal
+global.img = 'https://i.imgur.com/aapfCnY.jpeg'
+global.img2 = 'https://i.imgur.com/PXljkFw.jpeg'
+global.img3 = 'https://imgur.com/c8DUWxN.jpg' //ft rectangular
+global.img5 = 'https://imgur.com/6lqbq0V.jpeg'
+global.img6 = 'https://imgur.com/R7VWCG7.jpeg'
+global.img7 = 'https://imgur.com/wfv0bd7.jpeg'
+global.img8 = 'https://imgur.com/LL8xVL1.jpeg'
+global.img9 = 'https://imgur.com/kLpeAS6.jpeg'
+global.img10 = 'https://imgur.com/ILratRY.jpeg'
+global.img11 = 'https://imgur.com/Z1Lw9tb.jpeg'
+global.img12 = 'https://imgur.com/ySd4OlO.jpeg'
+global.img13 = 'https://imgur.com/c09Zl6d.jpeg'
+global.img14 = 'https://imgur.com/hJx3NKm.jpeg'
+global.img15 = 'https://imgur.com/vLuwj2B.jpeg'
+
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb]
