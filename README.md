@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtube.com/@noureddineouafy2">
-      <img alt="DYNAMIC MOROCCO" height="300" src="https://telegra.ph/file/ce4ca70bc9664db71bcf1.jpg">
+      <img alt="DYNAMIC MOROCCO" height="300" src="https://telegra.ph/Ulquiorra-Bot-05-10">
     <h1 align="center">Ulquiorra Bot</h1>
   </a>
 #### DEPLOY TO REPLIT
